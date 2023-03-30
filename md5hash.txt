@@ -1,0 +1,6 @@
+# examples of md5 hashes to test the program
+
+d55e2b075670edeff3abb2d23bf5b6c1
+ad43d263c6badeb8f86664089136f86e
+9dccbd509ddcc82da3d377485ce3fe3d
+
